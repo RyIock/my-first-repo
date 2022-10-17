@@ -1,2 +1,2 @@
-# my-first-repo minor update
-Practice account for learning Git
+# My First Repository
+Practice account for learning Git!
